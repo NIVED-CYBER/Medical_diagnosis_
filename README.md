@@ -11,7 +11,7 @@
 
 **A comprehensive machine learning web application that predicts multiple diseases using clinical parameters**
 
-[🚀 Live Demo](https://your-app-url.streamlit.app) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/yourusername/medical-disease-prediction/issues) • [💡 Request Feature](https://github.com/yourusername/medical-disease-prediction/issues)
+
 
 </div>
 
