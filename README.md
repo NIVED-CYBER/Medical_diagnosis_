@@ -350,11 +350,6 @@ Special thanks to:
 
 ---
 
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/medical-disease-prediction&type=Date)](https://star-history.com/#yourusername/medical-disease-prediction&Date)
-
----
 
 **Made with ❤️ for the healthcare community**
 
